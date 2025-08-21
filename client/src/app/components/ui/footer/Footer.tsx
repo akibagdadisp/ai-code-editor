@@ -24,7 +24,7 @@ const Footer = () => {
         </nav>
         <div className="flex justify-center mt-8 space-x-6">
           <a
-            href="https://github.com/HiiiiiPritam/ai-code-editor"
+            href="https://github.com/akibagdadisp"
             className="text-gray-300 hover:text-[#1e8f6e] transition-all duration-300"
           >
             <span className="sr-only">GitHub</span>
@@ -44,7 +44,7 @@ const Footer = () => {
         </div>
         <p className="text-gray-300 text-center mt-6">
           Made with ❤️ by{" "}
-          <span className="text-[#1e8f6e]">Pritam, ShivaPreetam, and Aditya</span>
+          <span className="text-[#1e8f6e]">Kishan_Singh</span>
         </p>
       </div>
     </footer>
